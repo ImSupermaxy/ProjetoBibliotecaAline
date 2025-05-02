@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b2e9c61-1034-4eb2-8ee1-48321368e0af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/base/service/IEntityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/base/service/IEntityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/controller/DevolucaoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/controller/DevolucaoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/controller/EmprestimoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/controller/EmprestimoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/controller/FuncionarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/controller/FuncionarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/controller/LivroController.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/controller/LivroController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/model/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/model/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/model/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/model/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/model/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/model/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/repository/impl/FuncionarioRepositoryMemoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/repository/impl/FuncionarioRepositoryMemoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/repository/impl/LivroRepositoryMemoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/repository/impl/LivroRepositoryMemoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/repository/impl/UsuarioRepositoryMemoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/repository/impl/UsuarioRepositoryMemoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/service/impl/EmprestimoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/service/impl/EmprestimoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/service/impl/EnderecoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/service/impl/EnderecoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/service/impl/FuncionarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/service/impl/FuncionarioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/service/impl/LivroServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/service/impl/LivroServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/service/impl/PerfilServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/service/impl/PerfilServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/service/impl/RetiradaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/service/impl/RetiradaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/service/impl/ServiceStatusImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/service/impl/StatusServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/service/impl/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/service/impl/UsuarioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/shared/BibliotecaUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/shared/BibliotecaUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/shared/ConsoleUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/shared/ConsoleUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/br/com/biblioteca/shared/MenuUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/br/com/biblioteca/shared/MenuUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/base/service/IEntityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/base/service/IEntityService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/DevolucaoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/DevolucaoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/EmprestimoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/EmprestimoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/FuncionarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/FuncionarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/LivroController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/LivroController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/UsuarioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/controller/UsuarioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Endereco.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Endereco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Livro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/model/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/repository/impl/FuncionarioRepositoryMemoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/repository/impl/FuncionarioRepositoryMemoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/repository/impl/LivroRepositoryMemoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/repository/impl/LivroRepositoryMemoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/repository/impl/UsuarioRepositoryMemoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/repository/impl/UsuarioRepositoryMemoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/EmprestimoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/EmprestimoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/EnderecoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/EnderecoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/FuncionarioServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/FuncionarioServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/LivroServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/LivroServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/PerfilServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/PerfilServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/PerfilServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/PerfilServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/RetiradaServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/RetiradaServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/ServiceStatusImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/UsuarioServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/service/impl/UsuarioServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/shared/BibliotecaUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/shared/BibliotecaUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/shared/ConsoleUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/shared/ConsoleUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/shared/MenuUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProjetoBibliotecaAline/br/com/biblioteca/shared/MenuUI.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vwuYl9x8YiXYpSJfIi0snUbkH9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;teste&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Matheus/IdeaProjects/ProjetoBibliotecaAline&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.biblioteca.Main" />
+      <module name="ProjetoBibliotecaAline" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.biblioteca.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b2e9c61-1034-4eb2-8ee1-48321368e0af" name="Changes" comment="" />
+      <created>1745068507126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745068507126</updated>
+    </task>
+    <servers />
+  </component>
+</project>
