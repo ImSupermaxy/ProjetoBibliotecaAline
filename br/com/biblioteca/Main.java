@@ -16,8 +16,8 @@ public class Main {
     public static void main(String[] args) {
         //TesteConsole.TesteBiblioteca();
 
-        var createDateBaseWithData = true;
-        var createDataDevolucaoEmprestimoToMulta = true;
+        var createDateBaseWithData = false;
+        var createDataDevolucaoEmprestimoToMulta = false;
 
         //Services sem dependência a repositórios (Enums, e outras entidades)
         var enderecoService = new EnderecoServiceImpl();
