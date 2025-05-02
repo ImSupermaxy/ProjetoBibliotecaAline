@@ -13,7 +13,7 @@ Usabilidades Adicionais (mais para teste do sistema):
   (não é gerado para o empréstimo)
   Basta alterar a variável "createDateBaseWithData" para true, assim será passado aos repositórios que gerarão os dados automaticamente
 - É possível gerar devoluções atrasadas sem precisar alterar a data do computador
-  Basta alterar a variável "createDataDevolucaoEmprestimoToMulta" para true, ela irá perguntar para quantos dias
+  basta alterar a variável "createDataDevolucaoEmprestimoToMulta" para true, ela irá perguntar para quantos dias
   após a data prevista que será realizada a devolução, e informe a quantidade de dias desejada
   Dessa forma é possível validar o valor da multa por dia excedido.
 - Id's do livro são gerados a cada nova execução, ou seja diferente do usuário e funcionário, os ids vão mudar
