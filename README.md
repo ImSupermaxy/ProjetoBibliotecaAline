@@ -1,5 +1,7 @@
 Projeto simulando um sistema de uma biblioteca
 
+(Projeto da faculdade)
+
 Observações (regras gerais):
 - Um usuário não pode ter mais de um empréstimo ativo
 - Um usuário não realizar um empréstimo enquanto tiver alguma multa ativa
